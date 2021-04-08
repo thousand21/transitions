@@ -1,9 +1,9 @@
-section{
+section:not(.les_transition_10){
     border-bottom: solid;
     padding-bottom: 50px;
 }
-section:last-child{
-    border-bottom: none;
+section{
+    padding-bottom: 50px;
 }
 /* début exo 01 les_hover_01 */
 .bg-color{
